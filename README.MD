@@ -1,6 +1,5 @@
-
-
-# Random Quote Generator
+# Random Quote Generator  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://hussainali2023.github.io/random-quote/)
 
 Welcome to the **Random Quote Generator** application! This simple yet fun app generates a random quote along with a random image every time you interact with it. It's perfect for finding inspiration, sharing wisdom, or just enjoying a moment of randomness.
 
